@@ -1,0 +1,11 @@
+google-chrome
+firefox
+slack
+1password
+spectacle
+postman
+sublime-text
+telegram
+webstorm
+virtualbox
+brave-browser
