@@ -19,7 +19,6 @@ do
 done
 
 brew cleanup
-brew cask cleanup
 
 # Set up Node
 nvm install latest
