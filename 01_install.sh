@@ -15,7 +15,7 @@ done
 brew tap caskroom/cask
 for i in $(cat applications/homebrew-cask_formula.txt)
 do
-	brew install "$i"
+	brew cask install "$i"
 done
 
 brew cleanup
