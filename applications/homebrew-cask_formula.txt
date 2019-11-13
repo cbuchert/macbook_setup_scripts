@@ -9,3 +9,4 @@ telegram
 webstorm
 virtualbox
 brave-browser
+autodesk-fusion360
