@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create folders
-mkdir ~/projects
+mkdir ~/Projects
 
 # Add SSH keys to keychain
-ssh-add -K ~/.ssh/id_rsa
+# TODO: Find the right SSH key and add it to the keychain.

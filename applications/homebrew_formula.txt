@@ -1,8 +1,4 @@
-git
-nvm
 wget
 mas
-zsh
-zsh-completions
 docker
 docker-machine
